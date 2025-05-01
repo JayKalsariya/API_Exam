@@ -10,8 +10,7 @@ A RESTful API for managing parking slots in a multi-level parking system using P
 - Update parking slot information
 - Delete parking slots
 - Uses **foreign key** support-ready structure
-- Secure database interactions using **PDO**
-
+  
 ## Images:
 
 <img src="https://github.com/user-attachments/assets/289e7da4-0851-4361-bab4-fa6fe94b6660" width="800" height="200">
